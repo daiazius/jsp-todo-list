@@ -1,0 +1,9 @@
+com/pedro/treinamentos/todo/TodoService.class
+com/pedro/treinamentos/filter/LoginRequiredFilter.class
+com/pedro/treinamentos/todo/DeleteTodoServlet.class
+com/pedro/treinamentos/login/LoginServlet.class
+com/pedro/treinamentos/todo/AddTodoServlet.class
+com/pedro/treinamentos/todo/Todo.class
+com/pedro/treinamentos/logout/LogoutServlet.class
+com/pedro/treinamentos/login/LoginService.class
+com/pedro/treinamentos/todo/ListTodoServlet.class
